@@ -1,6 +1,6 @@
 {
-  "name": "react-awesome-query-builder",
-  "version": "2.0.0",
+  "name": "thelastsultan-react-awesome-expression-builder",
+  "version": "2.0.1",
   "description": "User-friendly query builder for React. Demo: https://ukrbublik.github.io/react-awesome-query-builder",
   "keywords": [
     "reactjs",
@@ -54,7 +54,7 @@
     "transit-js": "^0.8.846"
   },
   "peerDependencies": {
-    "antd": "^3.25.0",
+    "antd": "4.0.3",
     "react": "^0.14.6 || ^15.0.0 || ^16.4.1 ",
     "react-dom": "^0.14.6 || ^15.0.0 || ^16.4.1",
     "react-redux": "^4.0.6 || ^5.0.0",
